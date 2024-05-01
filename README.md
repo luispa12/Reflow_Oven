@@ -1,3 +1,9 @@
-![Huskies' lab](assets/Logo2.png)
+![Huskies' lab](Assets/Logo2.png)
 
 ## Project Specification
+
+### Power Supply
+
+### Pin Layout
+
+### Board Design

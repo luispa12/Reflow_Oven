@@ -17,8 +17,13 @@ Insights into the design process, challenges faced, and key design decisions mad
 For this project, I wanted the PCB to be the smallest I can, but taking into consideration that I don't have proper tools to assemble it at home (the reason why I'm doing this reflow oven), so I decided to use 0806 components, which can be relativily easy to solder by hand and a heat gun.
 The most difficult component to solder was the Atmega328 because I only got the QFN package, which is very small, but after a lot of attempts I was able to solder it succesfully.
 
+I also needed the pcb to be small enough to fit inside the oven without doing so much modification, and have a small overall footprint.
+
+
 ## Development Timeline
 Timeline of the project from conception to completion, highlighting key milestones.
+
+I stater 
 
 ## Technical Details
 Technical specifications of the hardware design, including components used, circuit schematic, PCB layout, and any customizations or modifications.

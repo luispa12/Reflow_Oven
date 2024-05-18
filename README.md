@@ -19,33 +19,4 @@ The most difficult component to solder was the Atmega328 because I only got the 
 
 I also needed the pcb to be small enough to fit inside the oven without doing so much modification, and have a small overall footprint.
 
-
-## Development Timeline
-Timeline of the project from conception to completion, highlighting key milestones.
-
-I stater 
-
-## Technical Details
-Technical specifications of the hardware design, including components used, circuit schematic, PCB layout, and any customizations or modifications.
-
-## Assembly and Testing
-Description of the assembly process, including soldering or mechanical assembly procedures, and testing procedures used to validate functionality.
-
-## Results and Performance
-Results of testing and evaluation, including performance metrics or benchmarks.
-
-## Lessons Learned
-Reflections on lessons learned during the project, including challenges encountered and insights gained.
-
-## Future Plans
-Discussion of future plans or enhancements for the hardware project.
-
-## Visuals
-Photographs, diagrams, or videos showcasing the hardware project in action.
-
-## Call to Action
-Encouragement for reader engagement, such as leaving comments, asking questions, or sharing thoughts about the project.
-
-## Acknowledgments
-Acknowledgment of individuals or organizations that contributed to the project.
-
+Documentation is still on progress...
